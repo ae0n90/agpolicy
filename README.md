@@ -5,6 +5,7 @@
 - `index.html` 课程首页
 - `lecture-02.html` 第二讲 农业政策背景（上）
 - `lecture-03.html` 第三讲 农业政策背景（下）
+- `lecture-04.html` 第四讲 农村土地政策（55页，周晓时授课）
 - `.nojekyll` 让 GitHub Pages 原样发布
 
 ## 用 GitHub Pages 发布（网页操作，约 5 分钟）
